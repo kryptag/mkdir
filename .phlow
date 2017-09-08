@@ -5,3 +5,10 @@ integration_branch     = master
 issue_url              = http://ec2-35-158-180-252.eu-central-1.compute.amazonaws.com:8080
 delivery_branch_prefix = ready
 
+[jira]
+remote                 = origin
+service                = jira
+integration_branch     = master
+issue_url              = http://ec2-18-194-59-92.eu-central-1.compute.amazonaws.com:8080
+delivery_branch_prefix = ready
+
