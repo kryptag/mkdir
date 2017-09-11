@@ -1,7 +1,7 @@
 [default]
 remote                 = origin
-service                = github
+service                = jira
 integration_branch     = master
-issue_url              = https://api.github.com
+issue_url              = http://ec2-35-158-180-252.eu-central-1.compute.amazonaws.com:8080
 delivery_branch_prefix = ready
 
